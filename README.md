@@ -7,7 +7,7 @@ Continuously develop a project from Computer Engineering Project I, correct proj
 
 | Week# | Date | Description  |Resources|Assignment & Due date|
 |:-----:|------|-------------|----|--|
-|  1 |Wed 16 Jan 2019| Orientation & Introduction to CPE project|[[Course Description]](https://drive.google.com/open?id=1v1N05F52E6jxTuy6ox8WxBsL_ve-xhro), [[Present Guideline]](https://drive.google.com/open?id=1Kts1XyFh6kr7_jiJMYhrG93yX4A3PvY6), [[Basic Git]](https://drive.google.com/open?id=1ZgoQkInFjvnrz-wiLy2ISEz7proDvbo1)  |  |
+|  1 |Wed 16 Jan 2019| Orientation & Introduction to CPE project|[[Course Description]](https://drive.google.com/open?id=1v1N05F52E6jxTuy6ox8WxBsL_ve-xhro), [[Present Guideline]](https://drive.google.com/open?id=1Kts1XyFh6kr7_jiJMYhrG93yX4A3PvY6), [[Basic Git]](https://drive.google.com/open?id=1ZgoQkInFjvnrz-wiLy2ISEz7proDvbo1), [[Slide template]](https://drive.google.com/file/d/1VC3St6WZNPndobrzBdV0Vv2jCfiHRGSR/view?usp=sharing)  |  |
 |2   |      |             | |  |
 |   3   |      |              |                     |  |
 |   4   |      |              |                     |  |
