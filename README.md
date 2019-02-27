@@ -3,6 +3,10 @@
 ## Objectives
 Continuously develop a project from Computer Engineering Project I, correct project following the Project I committee’s comments, finalize a project, finish thesis writing, complete thesis examination
 
+## Score
+<img src="https://raw.githubusercontent.com/Lecture-CPE/328/master/score/assign-1.jpg" alt="Assignment" width="300"><br>
+<img src="https://raw.githubusercontent.com/Lecture-CPE/328/master/score/progress-1.jpg" alt="Assignment" width="300">
+
 ## Resources
 
 | Week# | Date | Description  |Resources|Assignment| Due date|
