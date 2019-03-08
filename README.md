@@ -18,7 +18,7 @@ Continuously develop a project from Computer Engineering Project I, correct proj
 |   5   |Wed 13 Feb 2019      | LaTeX academic template  |* [[latex01.pdf]](https://drive.google.com/open?id=1OK_WYVeOJXkPQGb1KPSgYbGiKBXGujr8)<br>* [[template.zip]](https://drive.google.com/drive/folders/1yIL1WBmb6JlVyIcGAwr6NOHqIcNU3MU-?usp=sharing)  <br>* [MiKTex](https://miktex.org/download)<br> * [papers](https://drive.google.com/drive/folders/1JadpVly8dJn4zfKBmRf-Si_g4HoLCzmn?usp=sharing)                   | Write project information in LaTex format  | 17:00 today|
 |   6   |Wed 20 Feb 2019 | The their coding  | A : write color detection , B : control motor by variable, P : demo control stepping motor  |  ||
 |   7   |Wed 27 Feb 2019  |Numerical processing in R part1  |  [The Undergraduate Guide to R](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjH5KW79dngAhUPeisKHXMIChoQFjAAegQIARAC&url=http%3A%2F%2Fwww.biostat.jhsph.edu%2F~ajaffe%2Fdocs%2FundergradguidetoR.pdf&usg=AOvVaw1f42haGHX2G0n6hh_V1TyE) | * Select data and program + demo in R <br>* [R-part1](https://drive.google.com/file/d/1iJYhwMdLadeaYHbfpZ-N5oM_hf8yOmVQ/view?usp=sharing)  | in class|
-|   8   | Wed 6 Mar 2019 (No Calss)     | ***งานเกษตรลุ่มน้ำโขง***             |                     |  ||
+|   8   | Wed 6 Mar 2019 (No Calss)     | ***งานเกษตรลุ่มน้ำโขง***             |                     | * 7mar19 คุย P ปรับ slide  <br> * 11mar19 นัด A , B เตรียม slide ||
 |       | Tue 12 Mar 2019     | ***Midterm exam*** | Presentation : <br> * P 10:00-10:30 <br> * B 10:30-11:00 <br> * A 11:00-11:30  |  |Meeting Room Flr5. Eng.Building |
 |   9   |      |              |                     |  ||
 |   10  |      |              |                     |  ||
