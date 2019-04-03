@@ -21,10 +21,10 @@ Continuously develop a project from Computer Engineering Project I, correct proj
 |   7   |Wed 27 Feb 2019  |Numerical processing in R part1  |  [The Undergraduate Guide to R](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjH5KW79dngAhUPeisKHXMIChoQFjAAegQIARAC&url=http%3A%2F%2Fwww.biostat.jhsph.edu%2F~ajaffe%2Fdocs%2FundergradguidetoR.pdf&usg=AOvVaw1f42haGHX2G0n6hh_V1TyE) | * Select data and program + demo in R <br>* [R-part1](https://drive.google.com/file/d/1iJYhwMdLadeaYHbfpZ-N5oM_hf8yOmVQ/view?usp=sharing)  | in class|
 |   8   | Wed 6 Mar 2019 (No Calss)     | ***งานเกษตรลุ่มน้ำโขง***             |                     | * 7mar19 คุย P ปรับ slide  <br> * 11mar19 นัด A , B เตรียม slide ||
 |       | Tue 12 Mar 2019     | ***Midterm exam*** | Presentation : <br> * P 10:00-10:30 <br> * B 10:30-11:00 <br> * A 11:00-11:30  |  |Meeting Room Flr5. Eng.Building |
-|   9   |      |              |                     |  ||
-|   10  |      |              |                     |  ||
-|   11  |      |              |                     |  ||
-|   12  |      |              |                     |  ||
+|   9   | Wed 13 Mar 2019 (No Class)    |              |                     |  ||
+|   10  |Wed 20 Mar 2019 |  Progress Report            |                     |  ||
+|   11  |Wed <s>28</s> 29 Mar 2019 | Progress Report              |                     |  ||
+|   12  |Wed 3 Apr 2019      | Progress Report              |                     |  ||
 |   13  |      |              |                     |  ||
 |   14  |      |              |                     |  ||
 |   15  |      |              |                     |  ||
