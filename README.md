@@ -8,6 +8,9 @@ Continuously develop a project from Computer Engineering Project I, correct proj
 <img src="https://raw.githubusercontent.com/Lecture-CPE/328/master/score/assign-2.jpg" alt="Assignment" width="300"><br>
 <img src="https://raw.githubusercontent.com/Lecture-CPE/328/master/score/progress-2.jpg" alt="Progress" width="300">
 
+* **Assignment** for in-class assignemnt
+* **Progress** for weekly update
+
 ## Resources
 
 | Week# | Date | Description  |Resources|Assignment| Due date|
