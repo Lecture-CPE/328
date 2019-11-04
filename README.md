@@ -1,4 +1,6 @@
 # Computer Engineering Project II (31110328)
+## คำชี้แจง
+เนื้อหาในเว็บนี้ไม่ได้ผ่านการตรวจแก้เช่นเดียวกับบทความสำหรับตีพิมพ์ทั่วไป และอาจมีการแก้ไขในขณะบรรยายโดยไม่ได้ปรับเอกสาร จึงไม่เหมาะต่อการใช้อ้างอิง
 
 ## Objectives
 Continuously develop a project from Computer Engineering Project I, correct project following the Project I committee’s comments, finalize a project, finish thesis writing, complete thesis examination
